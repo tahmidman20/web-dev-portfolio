@@ -97,10 +97,14 @@ nav{
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
-    margin-top: 130px;
+   
 
  }
  /* *main style */
+ main section{
+  margin-top: 130px;
+  margin-bottom: 130px;
+ }
  main{
     max-width: 1140px;
     margin: 0 auto;
@@ -111,4 +115,22 @@ nav{
  }
  .item-dec{
     font-weight: 600;
+ }
+ .text-cntr{
+  text-align: center;
+ }
+ /* skills sec* */
+ .skill-cntnr{
+  display: flex;
+  gap: 24px;
+ }
+ .skill{
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.25);
+ }
+ #skl-p{
+  padding: 50px;
+  line-height: 30px;
+  font-size: 18px;
  }
