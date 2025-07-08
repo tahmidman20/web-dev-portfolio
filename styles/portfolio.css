@@ -134,3 +134,31 @@ nav{
   line-height: 30px;
   font-size: 18px;
  }
+    /* resume-cntnr-styl* */
+  .resume-cntnr{
+    display: flex;
+    gap: 24px;
+  }  
+  .experience-dec{
+    color: #757575;
+  }
+  .experience-sib-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  .reaume hr{
+    margin: 30px 5px;
+  }
+  #cntr{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 113px;
+  }
+  /* button* */
+  .text-position{
+    text-align: center;
+    margin-top: 50px;
+  }
